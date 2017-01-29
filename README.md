@@ -16,4 +16,5 @@ usuarios y Escenarios](https://github.com/acasadoquijada/DES/tree/master/P2)
 [Licencia del repositorio](https://github.com/acasadoquijada/DES/blob/master/LICENSE)
 
 Nota: La licencia se aplica SOLO a las prácticas. 
+
 La página web es una plantilla obtenida de [free-css-templates](http://www.free-css.com/free-css-templates/page207/gotya) y su licencia se puede consultar [aquí](https://github.com/acasadoquijada/DES/blob/master/web/license.txt)
