@@ -8,5 +8,5 @@ Estas prácticas son las siguientes:
 * [Práctica 2 - Descripción Inicial del sistema. Modelado de 
 usuarios y Escenarios](https://github.com/acasadoquijada/DES/tree/master/P2)
 * [Práctica 3 - Iteraciones de Diseño](https://github.com/acasadoquijada/DES/tree/master/P3)
-	*[Iteración 1](https://github.com/acasadoquijada/DES/tree/master/P3/Iteraci%C3%B3n%201)
-	*[Iteración 2](https://github.com/acasadoquijada/DES/tree/master/P3/Iteraci%C3%B3n%202)
+	* [Iteración 1](https://github.com/acasadoquijada/DES/tree/master/P3/Iteraci%C3%B3n%201)
+	* [Iteración 2](https://github.com/acasadoquijada/DES/tree/master/P3/Iteraci%C3%B3n%202)
