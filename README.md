@@ -1,4 +1,4 @@
-# DES
+# Desarrollo y Evaluación de Sistemas Software Interactivos
 
 En este repositorio se encuentran las prácticas realizadas durante el curso.
 
